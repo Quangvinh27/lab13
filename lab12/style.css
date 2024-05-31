@@ -1,0 +1,10 @@
+.carousel-caption{
+    text-align: left;
+    margin-bottom: 50px;
+}
+footer{
+    text-align: left;
+    margin-top: 50px;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.05);
+}
